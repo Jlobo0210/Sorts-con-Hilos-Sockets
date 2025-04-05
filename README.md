@@ -2,10 +2,13 @@ Se desea tener un computador ejecutando un programa y que sea el cliente, al
 comienzo del programa debe preguntarle al usuario qué problema quiere resolver.
 
 Los problemas para resolver son:
+
 • Dado un vector / lista de 𝑛 posiciones, ordenarlo de manera ascendente
 usando el algoritmo de Mergesort.
+
 • Dado un vector / lista de 𝑛 posiciones, ordenarlo de manera ascendente
 usando el algoritmo de Heapsort.
+
 • Dado un vector / lista de 𝑛 posiciones, ordenarlo de manera ascendente
 usando el algoritmo de Quicksort.
 
